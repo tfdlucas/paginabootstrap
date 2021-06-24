@@ -1,0 +1,42 @@
+body{
+    font-family:'Trebuchet MS', sans-serif;
+}
+
+.titulo{
+    text-transform: uppercase;
+}
+.navbar{
+    background-color: #9d9d9d;
+}
+
+.quem-somos{
+    background-color: #9d9d9d;
+    color: #fff;
+}
+
+.parceiros{
+    color: #fff;
+    background-color: #1d1d1d;
+}
+
+.servicos{
+    color: #000;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+h2{
+    padding-top: 20px;
+}
+
+span{
+    color: aqua
+}
+
+.footer{
+    background-color: black;
+    color: #fff;
+}
